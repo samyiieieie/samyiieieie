@@ -2,7 +2,7 @@
 
 # ˚ʚ hi, i'm sam ɞ˚
 
-*student · builder · always on matcha*
+*CS student · 2nd year · always on matcha*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=building+things+that+matter+%F0%9F%92%AB;still+figuring+it+out+but+that%27s+ok)](https://git.io/typing-svg)
 
