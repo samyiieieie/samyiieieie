@@ -20,7 +20,12 @@ sam = {
   "currently" : "surviving finals + pitching to anyone who'll listen",
 }
 ```
+---
 
+### ✦ projects
+
+🆘 **Panikasog**
+> disaster preparedness mobile app built for Panay Island, with GPS check-in + gamification
 ---
 
 ### ✦ what i'm working on
@@ -28,8 +33,8 @@ sam = {
 🍜 **E-Locate / Iloilo Culinary Discovery Platform**
 > a gamified food trail app for tourists exploring Iloilo's food scene
 
-🆘 **Panikasog**
-> disaster preparedness mobile app built for Panay Island, with GPS check-in + gamification
+🧾 **Beacon**
+> a Flutter-based POS and inventory management system with customizable role-based access control (RBAC) for flexible business operations
 
 ---
 
