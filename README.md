@@ -54,7 +54,7 @@ sam = {
 
 <div align="center">
 
-![Sam's GitHub stats](https://github-readme-stats-eight-iota-16.vercel.app/api?username=samyiieieie&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000)
+![Sam's GitHub stats](https://github-readme-stats-eight-iota-16.vercel.app/api?username=samyiieieie&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=samyiieieie&theme=rose-pine&hide_border=true&background=00000000)
 
